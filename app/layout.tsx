@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Your 1stvibe project",
+  title: "$YOUR_NAME",
   description: "Built with 1stvibe.ai — your blank canvas, ready to ship.",
 };
 
