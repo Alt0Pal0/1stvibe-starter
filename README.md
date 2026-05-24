@@ -2,7 +2,7 @@
 
 Built with [1stvibe.ai](https://1stvibe.ai) — a guided weekend with AI teammates that takes you from curious to shipped.
 
-This is the starter template you cloned at the start of Phase 2 (Set Up). It's a bare Next.js 15 + Tailwind v4 + TypeScript project — your blank canvas. From here, BEA (your Build Experience Associate) and Claude Code will help you turn this into your actual idea.
+This is the starter template you cloned during Set Up. It's a bare Next.js 15 + Tailwind v4 + TypeScript project — your blank canvas. From here, your 1stvibe coach and Claude Code will help you turn this into your actual idea.
 
 ## Quickstart
 
