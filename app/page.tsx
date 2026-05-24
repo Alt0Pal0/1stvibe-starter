@@ -8,7 +8,7 @@ export default function Home() {
         <p className="mt-6 text-lg text-gray-700">Your site is live.</p>
         <p className="mt-4 text-sm text-gray-500">
           Edit <code className="rounded bg-gray-100 px-1.5 py-0.5 font-mono text-xs">app/page.tsx</code>{" "}
-          to make it yours — Claude Code or BEA can help.
+          to make it yours — Claude Code can help.
         </p>
         <p className="mt-10 text-xs text-gray-400">
           Built with{" "}
